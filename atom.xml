@@ -4,12 +4,13 @@
   <title><![CDATA[Random musings]]></title>
   <link href="http://deutscher.github.io/atom.xml" rel="self"/>
   <link href="http://deutscher.github.io/"/>
-  <updated>2013-11-19T00:15:16+02:00</updated>
+  <updated>2013-11-19T00:20:55+02:00</updated>
   <id>http://deutscher.github.io/</id>
   <author>
     <name><![CDATA[deutscher]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
